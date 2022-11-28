@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.66592E+12,221,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,992,161,1,1,http://todolistaws-env.eba-5pfmwbup.us-east-1.elasticbeanstalk.com/,221,0,3

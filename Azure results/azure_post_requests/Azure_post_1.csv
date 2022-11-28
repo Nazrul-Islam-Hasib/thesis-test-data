@@ -1,0 +1,2 @@
+elapsed,label,responseCode,threadName,bytes,sentBytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,IdleTime,Connect
+621,HTTP Request,200,Thread Group 1-1,223,286,1,1,621,1,0,0,406
